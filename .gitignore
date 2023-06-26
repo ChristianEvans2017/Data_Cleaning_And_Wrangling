@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+old/
+Old_Tuning_Logs/
+Summarizer/
+txtgener/
